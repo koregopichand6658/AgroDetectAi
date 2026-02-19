@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AgroDetect",
+  "description": "Advanced AI-powered plant disease detection and agricultural assistant using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
